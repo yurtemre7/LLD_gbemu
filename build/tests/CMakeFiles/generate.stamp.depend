@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Programming/emulator/build/CMakeFiles/cmake.verify_globs
+C:/Programming/emulator/src/cmake/FindCheck.cmake
+C:/Programming/emulator/src/tests/CMakeLists.txt

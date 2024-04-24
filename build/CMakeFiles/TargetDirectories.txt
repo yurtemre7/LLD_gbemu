@@ -1,0 +1,13 @@
+C:/Programming/emulator/build/CMakeFiles/RUN_TESTS.dir
+C:/Programming/emulator/build/CMakeFiles/INSTALL.dir
+C:/Programming/emulator/build/CMakeFiles/ALL_BUILD.dir
+C:/Programming/emulator/build/CMakeFiles/ZERO_CHECK.dir
+C:/Programming/emulator/build/lib/CMakeFiles/emu.dir
+C:/Programming/emulator/build/lib/CMakeFiles/RUN_TESTS.dir
+C:/Programming/emulator/build/lib/CMakeFiles/INSTALL.dir
+C:/Programming/emulator/build/gbemu/CMakeFiles/gbemu.dir
+C:/Programming/emulator/build/gbemu/CMakeFiles/RUN_TESTS.dir
+C:/Programming/emulator/build/gbemu/CMakeFiles/INSTALL.dir
+C:/Programming/emulator/build/tests/CMakeFiles/check_gbe.dir
+C:/Programming/emulator/build/tests/CMakeFiles/RUN_TESTS.dir
+C:/Programming/emulator/build/tests/CMakeFiles/INSTALL.dir
